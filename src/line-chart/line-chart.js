@@ -312,7 +312,7 @@ class LineChart extends AbstractChart {
         <Svg
           height={height + paddingBottom + legendOffset}
           width={width - margin * 2 - marginRight}
-          viewBox="0 0 400 150"
+          viewBox="0 10 400 120"
         >
           <Rect
             width="100%"
